@@ -1,5 +1,6 @@
 Boas vindas ao meu perfil 💙💙
-Meu é Danillo Figueiredo
+
+Meu é nome Danillo Figueiredo
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
